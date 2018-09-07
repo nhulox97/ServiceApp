@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="magenta">#FF4081</color>
+    <color name="boton">#1674d3</color>
+    <color name="Amarrillo">#FFC107</color>
+    <color name="Verde">#00bfa5</color>
+    <color name="morado">#9900ff</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="grays">#ededed</color>
+    <color name="GRIS">#bbc3ce</color>
+    <color name="fondo">#2D3A40</color>
+    <color name="rojo">#ff0000</color>
+    <color name="rojodark">#D32F2F</color>
+    <color name="lugares">#e8ecf2</color>
+    <color name="negro">#000000</color>
+    <color name="boton2">#47617c</color>
+    <color name="lightgray">#ededed</color>
+    <color name="Amarrilloboton">#F79730</color>
+
+</resources>
